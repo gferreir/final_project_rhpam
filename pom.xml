@@ -3,11 +3,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.myspace</groupId>
-  <artifactId>Initial_Project</artifactId>
+  <artifactId>Finalized_Project</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
-  <name>Initial_Project</name>
-  <description>RHPAM initial project for workshop</description>
+  <name>Finalized_Project</name>
+  <description>RHPAM finalized project for workshop</description>
   <dependencies>
     <dependency>
       <groupId>org.kie</groupId>
